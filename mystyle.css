@@ -1,0 +1,54 @@
+body {
+    background-image: url("fly.jpg");
+    background-repeat: none;
+    position: fixed;
+    height:100%;
+    width: 100%;
+
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: "New Times Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-shadow: 5px 2px 4px grey;
+  font-size: 15px;
+  font-family: monospace;
+}
+ul{
+    font-size: 15px;
+}
+
+p.contact {
+  text-align: center;
+}
+li{
+  color: white;
+  text-shadow: 5px 2px 4px grey;
+  font-size: 15px;
+  font-family: monospace;
+}
+li pie{
+  color: white;
+  text-shadow: 5px 2px 4px grey;
+  font-size: 15px;
+  font-family: monospace;
+}
+h2{
+  color: white;
+  text-shadow: 5px 2px 4px grey;
+  font-size: 15px;
+  font-family: monospace;
+}
+h2 point{
+  color: white;
+  text-shadow: 5px 2px 4px grey;
+  font-size: 15px;
+  font-family: monospace;
+}
