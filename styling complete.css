@@ -1,0 +1,52 @@
+body {
+  font-size: 25px;
+  color: black;
+  background-color: grey;
+  font-family: monospace;
+  background-image: linear-gradient(1);
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: inherit;
+  text-shadow: 5px 2px 4px grey;
+}
+h2{
+  text-align: center;
+  color: black;
+  font-family: inherit;
+  text-shadow: 5px 2px 4px grey;
+  }
+
+p {
+  text-align: center;
+  color: inherit;
+  font-family: inherit;
+  text-shadow: 5px 2px 4px grey;
+  }
+  .about{color: inherit;
+      text-shadow: 5px 2px 4px grey;
+  }
+
+/* navbar styling*/
+ul {  text-align: left;
+      list-style: none;
+}
+li.skill {
+  font-family: inherit;
+  align-content: center;
+}
+a{
+  text-align: center;
+  font-family: inherit;
+  color: black;
+}
+p.about 1{
+  text-shadow: 5px 2px 4px grey;
+}
+p.about 2{
+    text-shadow: 5px 2px 4px grey;
+}
+p.socials{
+    text-align: left;
+}
